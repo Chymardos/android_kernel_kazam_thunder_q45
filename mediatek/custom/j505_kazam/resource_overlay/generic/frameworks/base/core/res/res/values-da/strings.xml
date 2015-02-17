@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Custom phone number type -->
+    <string name="phoneTypeCustom">Brugerdefineret</string>
+    <!-- Home phone number type -->
+    <string name="phoneTypeHome">Hjem</string>
+    <!-- Mobile phone number type -->
+    <string name="phoneTypeMobile">Mobil</string>
+    <!-- Work phone number type -->
+    <string name="phoneTypeWork">Arbejde</string>
+    <!-- Work fax phone number type -->
+    <string name="phoneTypeFaxWork">Arbejds fax</string>
+    <!-- Home fax phone number type -->
+    <string name="phoneTypeFaxHome">Hjemme fax</string>
+    <!-- Pager phone number type -->
+    <string name="phoneTypePager">Pager</string>
+    <!-- Other phone number type -->
+    <string name="phoneTypeOther">Andet</string>
+    <!-- Callback phone number type -->
+    <string name="phoneTypeCallback">Ring tilbage</string>
+    <!-- Car phone number type -->
+    <string name="phoneTypeCar">Bil</string>
+    <!-- Company main phone number type -->
+    <string name="phoneTypeCompanyMain">Virksomhedens foretrukne</string>
+    <!-- ISDN phone number type -->
+    <string name="phoneTypeIsdn">ISDN</string>
+    <!-- Main phone number type -->
+    <string name="phoneTypeMain">Foretrukne</string>
+    <!-- Other fax phone number type -->
+    <string name="phoneTypeOtherFax">Anden fax</string>
+    <!-- Radio phone number type -->
+    <string name="phoneTypeRadio">Radio</string>
+    <!-- Telex phone number type -->
+    <string name="phoneTypeTelex">Telex</string>
+    <!-- TTY TDD phone number type -->
+    <string name="phoneTypeTtyTdd">TTY TDD</string>
+    <!-- Work mobile phone number type -->
+    <string name="phoneTypeWorkMobile">Arbejds mobil</string>
+    <!-- Work pager phone number type -->
+    <string name="phoneTypeWorkPager">Arbejds pager</string>
+    <!-- Assistant phone number type -->
+    <string name="phoneTypeAssistant">Assistent</string>
+    <!-- MMS phone number type -->
+    <string name="phoneTypeMms">MMS</string>
+
+    <!-- Custom email type -->
+    <string name="emailTypeCustom">Brugerdefineret</string>
+    <!-- Home email type -->
+    <string name="emailTypeHome">Hjemme</string>
+    <!-- Work email type -->
+    <string name="emailTypeWork">Arbejde</string>
+    <!-- Other email type -->
+    <string name="emailTypeOther">Andet</string>
+    <!-- Mobile email type -->
+    <string name="emailTypeMobile">Mobil</string>
+
+    <!-- Custom postal address type -->
+    <string name="postalTypeCustom">Brugerdefineret</string>
+    <!-- Home postal address type -->
+    <string name="postalTypeHome">Hjemme</string>
+    <!-- Work postal address type -->
+    <string name="postalTypeWork">Arbejde</string>
+    <!-- Other postal address type -->
+    <string name="postalTypeOther">Andet</string>
+</resources>

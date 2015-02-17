@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+<resources>
+<!-- add BUG_ID:JWLW-705  huangyouzhong 20131010 (start) -->
+    <integer name="def_screen_off_timeout">30000</integer>
+    <bool name="def_screen_brightness_automatic_mode">true</bool>
+    <string name="time_12_24" translatable="false">24</string>
+    <string name="def_date_format" translatable="false">dd-MM-yyyy</string>
+    <bool name="def_backup_enabled">true</bool>
+   <integer name="def_text_show_password">0</integer>
+<!-- add BUG_ID:JWLW-705  huangyouzhong 20131010 (end) -->
+
+	<!-- add BUG_ID:JWLW-682 zhanwenyu 20131010 start -->
+	<string name="def_location_providers_allowed" translatable="false">gps</string>
+	<!-- add BUG_ID:JWLW-682 zhanwenyu 20131010 end -->
+
+    <!-- add JWLW-999 guochenlong  20131112 (START) -->
+    <integer name="def_roaming_status">1</integer>
+    <integer name="def_roaming_status_2">1</integer>
+    <!-- add JWLW-999 guochenlong  20131112 (END) -->
+</resources>

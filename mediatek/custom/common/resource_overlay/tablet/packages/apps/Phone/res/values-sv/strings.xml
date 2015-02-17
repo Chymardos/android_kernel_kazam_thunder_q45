@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <string name="no_sip_account_found">"Det finns inget konto för Internetsamtal på den här enheten. Vill du lägga till ett nu?"</string>
+    <string name="ota_progress">Vänta medan enheten programmeras.</string>
+    <string name="ota_skip_activation_dialog_message">Om du hoppar över aktiveringen kan du inte ringa samtal eller ansluta till mobila datanätverk (men du kan ansluta till Wi-Fi-nätverk). Du kommer att påminnas om att aktivera enheten varje gång du startar den, tills du har aktiverat den."</string>
+    <string name="ota_successful">Enheten har nu aktiverats. Det kan ta upp till 15 minuter innan tjänsten startar.</string>
+    <string name="ota_title_activate">Aktivera enheten</string>
+    <string name="ota_title_activate_success">Enheten har aktiverats!</string>
+    <string name="ota_touch_activate">Du måste ringa ett särskilt samtal för att aktivera enhetstjänsten. \n\nTryck på \u201CAktivera\u201D och lyssna sedan på anvisningarna om hur du aktiverar enheten.</string>
+    <string name="ota_unsuccessful">Enheten har inte aktiverats. \nDu kanske måste hitta en plats med bättre täckning (nära ett fönster eller utomhus). \n\nFörsök igen eller ring kundtjänst om du vill ha fler alternativ.</string>
+    <string name="puk_unlocked">Ditt SIM-kort har avblockerats. Enheten låses upp \u2026</string>
+</resources>

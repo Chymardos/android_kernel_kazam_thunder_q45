@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">AALTool</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="title_activity_lcm_calibration">Étalonnage AAL LCM</string>
+    <string name="title_activity_als_calibration">Étalonnage AAL ALS</string>
+    <string name="title_activity_tuning">Réglage AAL</string>
+    <string name="power">PowerSaving</string>
+    <string name="luminance">Luminance</string>
+    <string name="lux">Lux</string>
+    <string name="save">Enregistrer</string>
+    <string name="clear">Effacer</string>
+    <string name="brightness">Luminosité</string>
+    <string name="darkening_speed">Vitesse d\'assombrissement</string>
+    <string name="brightening_speed">Vitesse d\'éclaircissement</string>
+    <string name="smartbacklight">Rétroéclairage intelligent</string>
+    <string name="tolerance_ratio">Indice de tolérance</string>
+    <string name="readability">Lisibilité</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<!-- add BUG_ID:JWLW-1232 huangyouzhong 20131101 (start) -->
+    <string name="people">People</string>
+<!-- add BUG_ID:JWLW-1232 huangyouzhong 20131101 (end) -->
+    <!-- Begin add by maoxinwei for JWLW-1218 20131105 -->
+    <bool name="showcalllog">true</bool>
+    <!-- End add by maoxinwei for JWLW-1218 20131105 -->
+</resources>

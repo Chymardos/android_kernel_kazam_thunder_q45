@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- add JWLW-1445 yb 20131127 start --> 
+    <bool name="imvisible_simindicator">true</bool>
+    <!-- add DLLW-1445 yb 20131127 end --> 
+</resources>

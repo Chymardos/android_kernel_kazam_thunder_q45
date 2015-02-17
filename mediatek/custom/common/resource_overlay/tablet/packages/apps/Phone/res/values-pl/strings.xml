@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:tools="http://schemas.android.com/tools">
+    <string name="no_sip_account_found">"Nie ma konta połączeń internetowych. Dodać konto teraz?"</string>
+    <string name="ota_progress">"Proszę czekać, urządzenie jest programowane"</string>
+    <string name="ota_skip_activation_dialog_message">"Możesz pominąć aktywację, jeżeli nie możesz wykonywać połączeń lub połączyć się z siecią (także przez Wi-Fi). Dopóki nie aktywujesz urządzenia, urządzenie będzie pytać o aktywację każdorazowo po włączeniu."</string>
+    <string name="ota_successful">"Twoje urządzenie jest aktywowane. Włączenie usługi może potrwać do 15 minut"</string>
+    <string name="ota_title_activate">"Aktywuj urządzenie"</string>
+    <string name="ota_title_activate_success">"Urządzenie aktywowane"</string>
+    <string name="ota_touch_activate">"Specjalne połączenie wymagane do aktywacji urządzenia.\n\n Po naciśnięciu \u201CAktywuj\u201D, wysłuchaj instrukcji jak aktywować urządzenie."</string>
+    <string name="ota_unsuccessful">"Twoje urządzenie nie zostało aktywowane. \nMusisz znaleźć miejsce z lepszym zasięgiem (przy oknie lub na zewnątrz). \n\nSpróbuj ponownie lub zadzwoń do biura obsługi klienta po więcej opcji"</string>
+    <string name="puk_unlocked">"Twoja karta została odblokowana. Twoje urządzenie jest odblokowywane"</string>
+</resources>

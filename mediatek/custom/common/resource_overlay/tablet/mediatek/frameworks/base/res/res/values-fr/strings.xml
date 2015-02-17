@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+/* //device/apps/common/assets/res/any/strings.xml
+**
+** Copyright 2006, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+ --><resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="aerr_application_lowmem">Espace de stockage de la tablette plein, l\'application a été arrêtée. Libérez de l\'espace et réessayez.</string>  
+    <string name="aerr_process_lowmem">Espace de stockage de la tablette plein, l\'opération a été arrêtée. Libérez de l\'espace et réessayez.</string> 
+    <string name="criticallowmessage">Le stockage de le périphérique est plein, supprimez les fichiers inutiles ou l\'application risque de se fermer inopinément</string>  
+<string name="storage_withoutsd">L'espace de stockage de la tablette n'a plus assez de mémoire. Veuillez libérer de l'espace ou insérez un carte SD.</string><string name="storage_withsd">L'espace de stockage de la tablette n'a plus assez de mémoire. Veuillez libérer de l'espace ou modifier le disque d'écriture par défaut dans les paramètres.</string></resources>

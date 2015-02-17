@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="OnScreenIndicatorGroup" parent="ScreenOnMargin">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">@dimen/icon_normal_size</item>
+        <item name="android:layout_marginRight">@dimen/indicator_padding</item>
+        <item name="android:layout_marginTop">280dp</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+<!--
+    <style name="OnScreenIndicatorGroup" parent="ScreenOnMargin">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">@dimen/icon_normal_size</item>
+        <item name="android:layout_marginRight">@dimen/indicator_padding</item>
+        <item name="android:layout_alignParentTop">true</item>     wpf modify item
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+-->
+</resources>

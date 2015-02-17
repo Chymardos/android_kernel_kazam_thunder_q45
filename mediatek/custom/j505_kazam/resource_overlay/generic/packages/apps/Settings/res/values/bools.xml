@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2009 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<!--
+History:
+1. chuiguo.zeng@ragentek.com 2013.10.24 BUG_ID:JWLW-878
+   Description: Remove wifi direct menu of J505 Kazam.
+-->
+
+<resources>
+    <!-- add JWLW-710 xianglong 20131014 (start) -->
+    <bool name="support_baseband_version_change">false</bool>
+    <bool name="support_device_name_display">true</bool>
+    <!-- add JWLW-710 xianglong 20131014 (end) -->
+    
+    <!-- add bug_id:JWLW-878 zengchuiguo 20131024 (start) -->
+    <bool name="config_show_wifi_direct_menu">false</bool>
+    <!-- add bug_id:JWLW-878 zengchuiguo 20131024 (end) -->    
+    
+</resources>
